@@ -103,42 +103,34 @@
   -webkit-animation-fill-mode:        $fill-mode;
   -moz-animation-fill-mode:           $fill-mode;
   animation-fill-mode:                $fill-mode;
-  @if $name == "bounce" {
+  @if $name == bounce {
     @include transform-origin(bottom center);
-  } @else if $name == "swing" {
+  } @else if $name == swing {
     @include transform-origin(top center);
-  } @else if $name == "bounceIn" {
+  } @else if $name == bounceIn {
     -webkit-animation-duration:         .75s;
     -moz-animation-duration:            .75s;
     animation-duration:                 .75s;
-  } @else if $name == "bounceOut" {
+  } @else if $name == bounceOut {
     -webkit-animation-duration:         .75s;
     -moz-animation-duration:            .75s;
     animation-duration:                 .75s;
-  } @else if $name == "flip" {
+  } @else if $name == flip {
     -webkit-backface-visibility:        visible !important;
     -moz-backface-visibility:           visible !important;
     -ms-backface-visibility:            visible !important;
     backface-visibility:                visible !important;
-  } @else if $name == "flipInX" {
+  } @else if $name == flipInX {
     -webkit-backface-visibility:        visible !important;
     -moz-backface-visibility:           visible !important;
     -ms-backface-visibility:            visible !important;
     backface-visibility:                visible !important;
-  } @else if $name == "flipInY" {
+  } @else if $name == flipInY {
     -webkit-backface-visibility:        visible !important;
     -moz-backface-visibility:           visible !important;
     -ms-backface-visibility:            visible !important;
     backface-visibility:                visible !important;
-  } @else if $name == "flipOutX" {
-    -webkit-backface-visibility:        visible !important;
-    -moz-backface-visibility:           visible !important;
-    -ms-backface-visibility:            visible !important;
-    backface-visibility:                visible !important;
-    -webkit-animation-duration:         .75s;
-    -moz-animation-duration:            .75s;
-    animation-duration:                 .75s;
-  } @else if $name == "flipOutY" {
+  } @else if $name == flipOutX {
     -webkit-backface-visibility:        visible !important;
     -moz-backface-visibility:           visible !important;
     -ms-backface-visibility:            visible !important;
@@ -146,11 +138,19 @@
     -webkit-animation-duration:         .75s;
     -moz-animation-duration:            .75s;
     animation-duration:                 .75s;
-  } @else if $name == "lightSpeedIn" {
+  } @else if $name == flipOutY {
+    -webkit-backface-visibility:        visible !important;
+    -moz-backface-visibility:           visible !important;
+    -ms-backface-visibility:            visible !important;
+    backface-visibility:                visible !important;
+    -webkit-animation-duration:         .75s;
+    -moz-animation-duration:            .75s;
+    animation-duration:                 .75s;
+  } @else if $name == lightSpeedIn {
     -webkit-animation-timing-function:  ease-out;
     -moz-animation-timing-function:     ease-out;
     animation-timing-function:          ease-out;
-  } @else if $name == "lightSpeedOut" {
+  } @else if $name == lightSpeedOut {
     -webkit-animation-timing-function:  ease-in;
     -moz-animation-timing-function:     ease-in;
     animation-timing-function:          ease-in;
