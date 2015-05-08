@@ -1,0 +1,235 @@
+$imported-modules: () !default;
+
+@mixin includeAnimation($name) {
+  @if (index($imported-modules, $name) == null) {
+    $imported-modules: append($imported-modules, $name) !global;
+    @if $name == bounce {
+      @include bounce(); 
+    }
+    @if $name == bounceIn {
+      @include bounceIn(); 
+    }
+    @if $name == bounceInDown {
+      @include bounceInDown(); 
+    }
+    @if $name == bounceInLeft {
+      @include bounceInLeft(); 
+    }
+    @if $name == bounceInRight {
+      @include bounceInRight(); 
+    }
+    @if $name == bounceInUp {
+      @include bounceInUp(); 
+    }
+    @if $name == bounceOut {
+      @include bounceOut(); 
+    }
+    @if $name == bounceOutDown {
+      @include bounceOutDown(); 
+    }
+    @if $name == bounceOutRight {
+      @include bounceOutRight(); 
+    }
+    @if $name == bounceOutLeft {
+      @include bounceOutLeft(); 
+    }
+    @if $name == bounceOutUp {
+      @include bounceOutUp(); 
+    }
+
+  // Fades
+    @if $name == fadeInDown {
+      @include fadeInDown(); 
+    }
+    @if $name == fadeInDownBig {
+      @include fadeInDownBig(); 
+    }
+    @if $name == fadeIn {
+      @include fadeIn(); 
+    }
+    @if $name == fadeInLeft {
+      @include fadeInLeft(); 
+    }
+    @if $name == fadeInRightBig {
+      @include fadeInRightBig(); 
+    }
+    @if $name == fadeInUpBig {
+      @include fadeInUpBig(); 
+    }
+    @if $name == fadeOut {
+      @include fadeOut(); 
+    }
+    @if $name == fadeInRight {
+      @include fadeInRight(); 
+    }
+    @if $name == fadeOutDownBig {
+      @include fadeOutDownBig(); 
+    }
+    @if $name == fadeOutDown {
+      @include fadeOutDown(); 
+    }
+    @if $name == fadeInLeftBig {
+      @include fadeInLeftBig(); 
+    }
+    @if $name == fadeOutRightBig {
+      @include fadeOutRightBig(); 
+    }
+    @if $name == fadeOutRight {
+      @include fadeOutRight(); 
+    }
+    @if $name == fadeOutLeft {
+      @include fadeOutLeft(); 
+    }
+    @if $name == fadeOutLeftBig {
+      @include fadeOutLeftBig(); 
+    }
+    @if $name == fadeInUp {
+      @include fadeInUp(); 
+    }
+    @if $name == fadeOutUp {
+      @include fadeOutUp(); 
+    }
+    @if $name == fadeOutUpBig {
+      @include fadeOutUpBig(); 
+    }
+
+  // Flashes
+    @if $name == flash {
+      @include flash(); 
+    }
+
+  // Flips
+    @if $name == flip {
+      @include flip(); 
+    }
+    @if $name == flipInX {
+      @include flipInX(); 
+    }
+    @if $name == flipInY {
+      @include flipInY(); 
+    }
+    @if $name == flipOutX {
+      @include flipOutX(); 
+    }
+    @if $name == flipOutY {
+      @include flipOutY(); 
+    }
+
+  // Hinges
+    @if $name == hinge {
+      @include hinge(); 
+    }
+
+  // LigthSpeeds
+    @if $name == lightSpeedIn {
+      @include lightSpeedIn(); 
+    }
+    @if $name == lightSpeedOut {
+      @include lightSpeedOut(); 
+    }
+
+  // Pulses
+    @if $name == pulse {
+      @include pulse(); 
+    }
+
+  // Rolls
+    @if $name == rollIn {
+      @include rollIn(); 
+    }
+    @if $name == rollOut {
+      @include rollOut(); 
+    }
+
+  // Rotates
+    @if $name == rotateIn {
+      @include rotateIn(); 
+    }
+    @if $name == rotateInDownRight {
+      @include rotateInDownRight(); 
+    }
+    @if $name == rotateInDownLeft {
+      @include rotateInDownLeft(); 
+    }
+    @if $name == rotateInUpLeft {
+      @include rotateInUpLeft(); 
+    }
+    @if $name == rotateInUpRight {
+      @include rotateInUpRight(); 
+    }
+    @if $name == rotateOut {
+      @include rotateOut(); 
+    }
+    @if $name == rotateOutDownLeft {
+      @include rotateOutDownLeft(); 
+    }
+    @if $name == rotateOutUpLeft {
+      @include rotateOutUpLeft(); 
+    }
+    @if $name == rotateOutDownRight {
+      @include rotateOutDownRight(); 
+    }
+    @if $name == rotateOutUpRight {
+      @include rotateOutUpRight(); 
+    }
+
+  // Rubberband
+    @if $name == rubberBand {
+      @include rubberBand(); 
+    }
+
+  // Shakes
+    @if $name == shake {
+      @include shake(); 
+    }
+
+  // Swings
+    @if $name == swing {
+      @include swing(); 
+    }
+
+  // Tadas
+    @if $name == tada {
+      @include tada(); 
+    }
+
+  // Wobbles
+    @if $name == wobble {
+      @include wobble(); 
+    }
+
+  // Zooms
+    @if $name == zoomIn {
+      @include zoomIn(); 
+    }
+    @if $name == zoomInDown {
+      @include zoomInDown(); 
+    }
+    @if $name == zoomInLeft {
+      @include zoomInLeft(); 
+    }
+    @if $name == zoomInRight {
+      @include zoomInRight(); 
+    }
+    @if $name == zoomInUp {
+      @include zoomInUp(); 
+    }
+    @if $name == zoomOutDown {
+      @include zoomOutDown(); 
+    }
+    @if $name == zoomOut {
+      @include zoomOut(); 
+    }
+    @if $name == zoomOutLeft {
+      @include zoomOutLeft(); 
+    }
+    @if $name == zoomOutRight {
+      @include zoomOutRight(); 
+    }
+    @if $name == zoomOutUp {
+      @include zoomOutUp();
+    }
+  } @else {
+    //@warn "Has been included before";
+  }
+}

@@ -1,0 +1,69 @@
+// Checks for special props to each animations
+@mixin specialProps($name) {
+  @if $name == bounce {
+    -webkit-transform-origin: center bottom;
+    -moz-transform-origin: center bottom;
+    transform-origin: center bottom;
+  } 
+  @if $name == swing {
+    -webkit-transform-origin: top center;
+    -moz-transform-origin: top center;
+    transform-origin: top center;
+  } 
+  @if $name == bounceIn {
+    -webkit-animation-duration:         .75s;
+    -moz-animation-duration:            .75s;
+    animation-duration:                 .75s;
+  } 
+  @if $name == bounceOut {
+    -webkit-animation-duration:         .75s;
+    -moz-animation-duration:            .75s;
+    animation-duration:                 .75s;
+  } 
+  @if $name == flip {
+    -webkit-backface-visibility:        visible !important;
+    -moz-backface-visibility:           visible !important;
+    -ms-backface-visibility:            visible !important;
+    backface-visibility:                visible !important;
+  } 
+  @if $name == flipInX {
+    -webkit-backface-visibility:        visible !important;
+    -moz-backface-visibility:           visible !important;
+    -ms-backface-visibility:            visible !important;
+    backface-visibility:                visible !important;
+  } 
+  @if $name == flipInY {
+    -webkit-backface-visibility:        visible !important;
+    -moz-backface-visibility:           visible !important;
+    -ms-backface-visibility:            visible !important;
+    backface-visibility:                visible !important;
+  } 
+  @if $name == flipOutX {
+    -webkit-backface-visibility:        visible !important;
+    -moz-backface-visibility:           visible !important;
+    -ms-backface-visibility:            visible !important;
+    backface-visibility:                visible !important;
+    -webkit-animation-duration:         .75s;
+    -moz-animation-duration:            .75s;
+    animation-duration:                 .75s;
+  } 
+  @if $name == flipOutY {
+    -webkit-backface-visibility:        visible !important;
+    -moz-backface-visibility:           visible !important;
+    -ms-backface-visibility:            visible !important;
+    backface-visibility:                visible !important;
+    -webkit-animation-duration:         .75s;
+    -moz-animation-duration:            .75s;
+    animation-duration:                 .75s;
+  } 
+  @if $name == lightSpeedIn {
+    -webkit-animation-timing-function:  ease-out;
+    -moz-animation-timing-function:     ease-out;
+    animation-timing-function:          ease-out;
+  } 
+  @if $name == lightSpeedOut {
+    -webkit-animation-timing-function:  ease-in;
+    -moz-animation-timing-function:     ease-in;
+    animation-timing-function:          ease-in;
+  }
+}

@@ -1,0 +1,26 @@
+@import "../animate.scss";
+
+.center {
+	$height: 40px;
+
+	width: 400px;
+	height: $height;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	h2 {
+		line-height: $height;
+		text-align: center;
+		position: relative;
+		@include animate-embed(bounce);
+	}
+	h3 {
+		line-height: $height;
+		text-align: center;
+		position: relative;
+		@include animate-embed(bounce);
+	}
+}

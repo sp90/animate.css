@@ -1,15 +1,27 @@
 {
   "name": "animate.css",
-  "version": "3.2.1",
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-autoprefixer": "~0.4.0",
-    "grunt-contrib-watch": "~0.5.3",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-cssmin": "~0.8.0",
-    "load-grunt-tasks": "~0.2.0"
+  "version": "1.0.0",
+  "description": "Animate.css now for scss",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "example"
   },
-  "spm": {
-    "main": "./animate.css"
+  "scripts": {
+    "start": "gulp sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sp90/animate.css.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sp90/animate.css/issues"
+  },
+  "homepage": "https://github.com/sp90/animate.css",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-sass": "^2.0.0"
   }
 }

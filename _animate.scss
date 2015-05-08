@@ -1,0 +1,44 @@
+/*/
+
+  Check if the animation is used, if then import it 
+
+    - Inside each import it checks if the code has been imported before
+
+/*/
+
+// Get all animations
+@import "animations/animations";
+
+// Get the specielprops checker
+@import "specialprops";
+
+// Get the include checker
+@import "includeanimation";
+  
+// Mixin to select custom settings for animations and to select animations
+@mixin animate-embed($name, $duration: 1s, $fill-mode: both) {
+  -webkit-animation-name:             $name;
+  animation-name:                     $name;
+  -webkit-animation-duration:         $duration;
+  -moz-animation-duration:            $duration;
+  animation-duration:                 $duration;
+  -webkit-animation-fill-mode:        $fill-mode;
+  -moz-animation-fill-mode:           $fill-mode;
+  animation-fill-mode:                $fill-mode;
+  @include specialProps($name);
+  @at-root {
+    @include includeAnimation($name); 
+  }
+}
+
+//hack to overwrite ae function
+body .infinite {
+  -webkit-animation-iteration-count:  infinite;
+  -moz-animation-iteration-count:     infinite;
+  animation-iteration-count:          infinite;
+}
+body .hinge {
+  -webkit-animation-duration:         2s;
+  -moz-animation-duration:            2s;
+  animation-duration:                 2s;
+}

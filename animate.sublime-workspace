@@ -1,0 +1,988 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"incl",
+				"includeAnimation"
+			],
+			[
+				"tra",
+				"transition	set default transition"
+			],
+			[
+				"tran",
+				"transform	set transform"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"trans",
+				"transform	set transform"
+			],
+			[
+				"tr",
+				"transform	set transform"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"get",
+				"getCore"
+			],
+			[
+				"the",
+				"theCompontents"
+			],
+			[
+				"sass",
+				"sassComment"
+			],
+			[
+				"sa",
+				"sassComment"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"touch",
+				"touchstart"
+			],
+			[
+				"color-",
+				"color-grey--50"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"colr",
+				"color-grey--50"
+			],
+			[
+				"top",
+				"topbarHeight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"clear",
+				"clearfix	Sass clearfix mixin"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"t",
+				"transform	set transform"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"cache",
+				"cachedOptions"
+			],
+			[
+				"option",
+				"optionbool"
+			],
+			[
+				"cahc",
+				"cachedOptions"
+			],
+			[
+				"my",
+				"myoptions"
+			],
+			[
+				"oop",
+				"optionsChanged"
+			],
+			[
+				"is",
+				"isFirst"
+			],
+			[
+				"ops",
+				"optionsChanged"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"cah",
+				"cachedOptions"
+			],
+			[
+				"no",
+				"noKey"
+			],
+			[
+				"cach",
+				"cachedOptions"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"br",
+				"breakpoint	css breakpoint"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"Tr",
+				"TRAVEL_STATIC"
+			],
+			[
+				"resu",
+				"result-row"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mo",
+				"Modernizr"
+			],
+			[
+				"ind",
+				"indList"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"ins",
+				"insurers"
+			],
+			[
+				"res",
+				"responses"
+			],
+			[
+				"rp",
+				"responses"
+			],
+			[
+				"ini",
+				"initRenderInsurers"
+			],
+			[
+				"retu",
+				"return_date"
+			],
+			[
+				"datepicker",
+				"datepicker"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"date",
+				"datepickerSelector"
+			],
+			[
+				"trsa",
+				"transition	set default transition"
+			],
+			[
+				"pos",
+				"pos	Use the position mixin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_animate.scss",
+			"settings":
+			{
+				"buffer_size": 1258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includeanimation.scss",
+			"settings":
+			{
+				"buffer_size": 4818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sss ",
+				"Set Syntax: Sass"
+			],
+			[
+				"ss sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"ss sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"ss ",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ss h",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ss ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss a",
+				"Set Syntax: Sass"
+			],
+			[
+				"ss ajva",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ss jav ",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"ss shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ssscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sp/Documents/dev/animate.css",
+		"/Users/sp/Documents/dev/animate.css/example"
+	],
+	"file_history":
+	[
+		"/Users/sp/Documents/dev/animate.css/example/style.css",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounce.scss",
+		"/Users/sp/Documents/dev/animate.css/example/index.html",
+		"/Users/sp/Documents/dev/animate.css/example/style.scss",
+		"/Users/sp/Documents/dev/animate.css/_includeanimations.scss",
+		"/Users/sp/Documents/dev/animate.css/_specialprops.scss",
+		"/Users/sp/Documents/dev/animate.css/_animation-checker.scss",
+		"/Users/sp/Documents/dev/animate.css/animations-import-once/_bounce.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_animations.scss",
+		"/Users/sp/Documents/dev/animate.css/gulpfile.js",
+		"/Users/sp/Documents/dev/animate.css/package.json",
+		"/Users/sp/Documents/dev/animate.css/npm-debug.log",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomOutUp.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomOutRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomOutLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomOutDown.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomOut.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomInUp.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomInRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomInLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_wobble.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomIn.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_zoomInDown.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_tada.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_swing.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_shake.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rubberBand.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateOutUpRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateOutUpLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateOutDownRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateInUpRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateOut.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateOutDownLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateInDownRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateInUpLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateIn.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rotateInDownLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rollOut.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_rollIn.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_lightSpeedIn.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_pulse.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_lightSpeedOut.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_flipOutY.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_hinge.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_flipInY.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_flipOutX.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_flipInX.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_flip.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_flash.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutUpBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutUp.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutRightBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutLeftBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/_animate.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutDownBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOutDown.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeOut.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInUpBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInUp.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInRightBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInLeftBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInDownBig.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeInDown.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_fadeIn.scss",
+		"/Users/sp/Documents/dev/animate.css/_import-once.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceOutUp.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceOutRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceOutLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceOutDown.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceOut.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceInUp.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceInRight.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceInLeft.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceInDown.scss",
+		"/Users/sp/Documents/dev/animate.css/animations/_bounceIn.scss",
+		"/Users/sp/Documents/dev/animate.css/_animation-variables.scss",
+		"/Users/sp/Documents/dev/animate.css/animate-config.json",
+		"/Users/sp/Documents/Dev/frontend/car/gulpfile.js",
+		"/Users/sp/Documents/Dev/frontend/car/app/fonts/selection.json",
+		"/Users/sp/Documents/Dev/frontend/car/app/lib/jquery/src/selector-sizzle.js",
+		"/Users/sp/Documents/Dev/frontend/car/app/js/app.js",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/_results.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/index.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/partials/index.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/css/app.css",
+		"/Users/sp/nomisdk/pages/about.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/_offers.scss",
+		"/Users/sp/nomisdk/templates/partials/header.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/pages/_offer.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/partials/user.html",
+		"/Users/sp/nomisdk/pages/index.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/modules/_substep.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/_main.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/partials/results.html",
+		"/Users/sp/nomisdk/templates/partials/paginator.html",
+		"/Users/sp/nomisdk/templates/partials/base.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/partials/offers_offer.part.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/partials/offers_form.part.html",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/settings/_settings.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/core/_form.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/core/_hr.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/app.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/vendor/_vendor.scss",
+		"/Users/sp/Documents/Dev/frontend/car/bower.json",
+		"/Users/sp/Documents/Dev/frontend/car/build-material.js",
+		"/Users/sp/Documents/dev/node-server/utils/build-material.js",
+		"/Users/sp/Documents/dev/frontend/car/build-material.js",
+		"/Users/sp/Documents/Dev/frontend/car/app/sass/vendor/material.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/sass/vendor/_vendor.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/lib/angular-material/buildscss.js",
+		"/Users/sp/Documents/Dev/frontend/car/app/lib/angular-material/material.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/lib/angular-material/all.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/dist/buildscss.js",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/angular-material.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/angular-material.css",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/sass/_ripple-key.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/lib/angular-material/sass/_ripple-btn.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/lib/angular-material/sass/_ripplekeyframe.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/sass/_slider.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/sass/_sidenav.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/sass/_radio.scss",
+		"/Users/sp/Documents/Dev/frontend/car/app/lib/angular-material/sass/_progress.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/sass/_utils.scss",
+		"/Users/sp/Documents/dev/frontend/car/app/lib/angular-material/sass/_process.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/sp/Documents/Dev/frontend/car/app/",
+			"/Users/sp/Documents/Dev/frontend/car/app/lib/angular-material",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/travel/app",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/car/",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/travel/app",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/travel/app",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/travel/app",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/travel/app",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/travel/app",
+			"/Users/sp/Documents/Dev/frontend/car/app",
+			"/Users/sp/Documents/Dev/frontend/car/app/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"= $",
+			"\";",
+			"@import \"",
+			"@if $name ==",
+			"@if $name",
+			"= $",
+			"else",
+			"center",
+			"();",
+			"@if",
+			"background-image",
+			"{",
+			"@if ",
+			"@include",
+			"//@",
+			"//",
+			".result--content",
+			".view-wrap",
+			"#index-container",
+			".view-wrap",
+			"#second-block",
+			".view-container",
+			"#second-block",
+			".view-container",
+			"#second-block",
+			"desktop.currentSubStep == 'summary' || (searchformReplica.$valid && userFlag.formFinished)",
+			"view-container",
+			"#second-block",
+			"ng-class=\"{'active': terms}\"",
+			"calc(100% - 108",
+			".diclaimer",
+			"#second-block",
+			".view-wrap",
+			".disclaimer__btn-wrap",
+			":hover",
+			"touch",
+			"\n		/* starting animations for enter */ ",
+			"@include view-pos;",
+			"slide-container",
+			".offer-form",
+			".offer-form .container",
+			"#index-container",
+			"@include view-pos;",
+			"=\"no",
+			"none",
+			"Ingen",
+			"<option data-hidden=\"true\"></option>",
+			".view-wrap",
+			"#index-container",
+			"id=\"second-block\"",
+			".disclaimer__btn-wrap",
+			"#second-block",
+			".desktop-deductiblelist li",
+			"157px",
+			".open > .dropdown-menu",
+			"data-size",
+			"class=\"claim__select select-block",
+			"class=\"claim__select select-block border mbl ng-pristine ng-untouched ng-invalid ng-invalid-required\"",
+			"dropdown-toggle",
+			"btn dropdown-toggle clearfix btn-primar",
+			"btn dropdown-toggle clearfix btn-primary btn-embossed default",
+			"#index-container",
+			"<main ",
+			"main",
+			"ui-view",
+			"slide",
+			"data",
+			".offer-infobox__body__list",
+			".offer-form",
+			"name=\"searchformReplica\"",
+			".columnlist",
+			".modal-backdrop.in",
+			"Matcher ikke dine ønsker",
+			"jeg vent",
+			"få 3",
+			"clearfix",
+			"ng-init=\"qc.extras = {}\"",
+			".form__holder--checkout",
+			".hr--grey-checkout",
+			"theming",
+			"default",
+			"theme",
+			";",
+			"@import \"",
+			"file",
+			"theCore",
+			"var console",
+			"argv.comp",
+			"\\r",
+			"getFiles(theFolderComponents)",
+			"theFolderSrc",
+			"src",
+			"theFolder",
+			"\\n",
+			"theModule",
+			"50px",
+			"span",
+			"container",
+			"display: inline-block;width: 100%; margin-bottom:0px",
+			" dropdown-toggle",
+			"btn dropdown-toggle",
+			"btn dropdown-toggle clearfix btn-primary",
+			"btn dropdown-toggle clearfix btn-primary btn-embossed default",
+			"max-height: 466px",
+			"style=\"max-height: 466px",
+			"style=\"max-height: 466px; overflow-y: auto",
+			"style=\"max-height: 466px; overflow-y: auto; min-height: 60px;\"",
+			".substep__input",
+			"btn btn-lg btn-flat btn-orange btn-embossed mtl",
+			"btn btn-lg btn-flat btn-embossed btn-block btn-hg btn-orange mtm btn--show-desk",
+			"btn__holder",
+			"btn-md",
+			"mll",
+			"btn btn-md btn-flat btn-embossed btn-orange mll",
+			"h2.responsive",
+			"margin-bottom:25px;font-style:italic",
+			"25px",
+			"margin-bottom:25px;font-style:italic",
+			"btn--more-list",
+			"block",
+			"giv os et ",
+			"autoscroll",
+			"Få 3 tilbud på din forsikringspakke",
+			"col-sm-6 text-right-xs current-insurer",
+			"$state.go",
+			"centi",
+			"desktop",
+			"Giv os et "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_animate.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1258,
+						"regions":
+						{
+							"gutter_color_6441":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#cb2027.png",
+								"regions":
+								[
+									[
+										304,
+										304
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includeanimation.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4399,
+								4399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "animate.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"frontend/car/app/js/app.js"
+			],
+			[
+				"main",
+				"frontend/car/app/sass/_main.scss"
+			],
+			[
+				"offer",
+				"frontend/car/app/partials/offers_form.part.html"
+			],
+			[
+				"index",
+				"frontend/car/app/index.html"
+			],
+			[
+				"loading",
+				"frontend/car/app/sass/modules/_loading.scss"
+			],
+			[
+				"results",
+				"frontend/travel/app/sass/modules/_result.scss"
+			],
+			[
+				"resul",
+				"frontend/car/app/sass/_results.scss"
+			],
+			[
+				"user",
+				"frontend/car/app/partials/user.html"
+			],
+			[
+				"core",
+				"frontend/car/app/sass/core/_core.scss"
+			],
+			[
+				"button",
+				"frontend/car/app/sass/core/_button.scss"
+			],
+			[
+				"offers.scss",
+				"frontend/car/app/sass/_offers.scss"
+			],
+			[
+				"carresults",
+				"frontend/car/app/js/controllers/result.js"
+			],
+			[
+				"butot",
+				"frontend/car/app/sass/core/_button.scss"
+			],
+			[
+				"result",
+				"frontend/travel/app/sass/modules/_result.scss"
+			],
+			[
+				"carreuslts",
+				"frontend/car/app/js/controllers/result.js"
+			],
+			[
+				"carresul",
+				"frontend/car/app/partials/results.html"
+			],
+			[
+				"carresult",
+				"frontend/car/app/js/controllers/result.js"
+			],
+			[
+				"travel/index",
+				"frontend/travel/app/js/controllers/index.js"
+			],
+			[
+				"resu",
+				"frontend/travel/app/js/controllers/results.js"
+			],
+			[
+				"travelindex",
+				"frontend/travel/app/js/controllers/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/dev/ghost/content/themes/inacave/inacave.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
