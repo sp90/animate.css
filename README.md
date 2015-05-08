@@ -1,5 +1,5 @@
 #NEW FEATURE
-Include keyframe once, dont think about implimenting keyframes yourself, just add them trough the mixin and it takes care of the rest.
+You don't have to think about implimenting keyframes your self, just use the mixin and internally it adds the keyframes to the build css.
 
 #How to include
 
